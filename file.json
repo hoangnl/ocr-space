@@ -1,0 +1,58 @@
+{
+    "ParsedResults": [{
+        "TextOverlay": {
+            "Lines": [{
+                "Words": [{
+                    "WordText": "Image",
+                    "Left": 182,
+                    "Top": 20,
+                    "Height": 23,
+                    "Width": 67
+                }],
+                "MaxHeight": 23,
+                "MinTop": 20
+            }, {
+                "Words": [{
+                    "WordText": "1234567890",
+                    "Left": 41,
+                    "Top": 59,
+                    "Height": 46,
+                    "Width": 379
+                }],
+                "MaxHeight": 46,
+                "MinTop": 59
+            }, {
+                "Words": [{
+                    "WordText": "Results",
+                    "Left": 175,
+                    "Top": 131,
+                    "Height": 18,
+                    "Width": 81
+                }],
+                "MaxHeight": 18,
+                "MinTop": 131
+            }, {
+                "Words": [{
+                    "WordText": "1234567890",
+                    "Left": 177,
+                    "Top": 188,
+                    "Height": 10,
+                    "Width": 76
+                }],
+                "MaxHeight": 10,
+                "MinTop": 188
+            }],
+            "HasOverlay": true,
+            "Message": "Total lines: 4"
+        },
+        "FileParseExitCode": 1,
+        "ParsedText": "Image \r\n1234567890 \r\nResults \r\n1234567890 \r\n",
+        "ErrorMessage": "",
+        "ErrorDetails": ""
+    }],
+    "OCRExitCode": 1,
+    "IsErroredOnProcessing": false,
+    "ErrorMessage": null,
+    "ErrorDetails": null,
+    "ProcessingTimeInMilliseconds": "926"
+}
